@@ -1,6 +1,6 @@
 # System Design & Design Patterns in Java
 
-This repository is a collaborative learning project focused on implementing and understanding **System Design ** and **Object-Oriented Design Patterns** using **Java**.  
+This repository is a collaborative learning project focused on implementing and understanding **System Design** and **Object-Oriented Design Patterns** using **Java**.  
 It is continuously evolving as we explore new architectures, principles, and coding challenges.
 
 ---
